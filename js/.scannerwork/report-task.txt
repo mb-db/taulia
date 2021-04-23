@@ -1,0 +1,6 @@
+projectKey=taulia
+serverUrl=https://sonar.signintra.com
+serverVersion=8.4.1.35646
+dashboardUrl=https://sonar.signintra.com/dashboard?id=taulia
+ceTaskId=AXj9mlZW-tUOVCZfI5qK
+ceTaskUrl=https://sonar.signintra.com/api/ce/task?id=AXj9mlZW-tUOVCZfI5qK
